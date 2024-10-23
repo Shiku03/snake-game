@@ -37,7 +37,7 @@ for (int i=0; i<height; i++)
 
 if (j == width-1)
 cout << "#";
-coutt << endl;
+cout << endl;
 
 }
 
